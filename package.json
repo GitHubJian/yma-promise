@@ -1,0 +1,9 @@
+{
+    "name": "yma-promise",
+    "version": "1.0.0",
+    "description": "基于 PromiseA+ 规范实现的 Polyfill",
+    "main": "./src/index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
